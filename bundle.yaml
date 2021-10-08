@@ -1,7 +1,7 @@
 apiVersion: "1"
 version: "2"
 id: "cacs-ws-ops-controller"
-description: "CloudBees CI configuration bundle for the cacs-ws ops-controller Controller"
+description: "CloudBees CI configuration bundle for the cacs-ws ops-controller Controller "
 jcasc:
   - "jenkins.yaml"
 plugins:
